@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-am a Computer Science student with a strong foundation in Java, along with knowledge of C, C++, MySQL, HTML, and CSS.<br> I am actively seeking an internship in the Java domain to gain hands-on experience, improve my backend development skills, and work on real-world projects.<br> I am continuously learning AI to expand my technical skill set and exploring Cloud technologies to understand scalable application deployment.
+I am a Computer Science Engineering student with specialisation in information and cyber security. <br>I have strong foundation in Java, along with knowledge of C, C++, MySQL, HTML and CSS.<br> I am actively seeking an internship in the Java domain to gain hands-on experience, improve my backend development skills, and work on real-world projects.<br> I am continuously learning AI to expand my technical skill set and exploring Cloud technologies to understand scalable application deployment.
 
 
 ## 🌐 Socials:
