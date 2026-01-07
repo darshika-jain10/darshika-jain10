@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am fresher graduating in 2026 have keen interest in java dvelopment with cleared concepts in c and c++.<br>i am looking for an internship to develop and learn more in java development.<br>i have good knowledge about html and css and database - MySQL<br>
+
+am a Computer Science student with a strong foundation in Java, along with knowledge of C, C++, MySQL, HTML, and CSS.<br> I am actively seeking an internship in the Java domain to gain hands-on experience, improve my backend development skills, and work on real-world projects.<br> I am continuously learning AI to expand my technical skill set and exploring Cloud technologies to understand scalable application deployment.
 
 
 ## 🌐 Socials:
